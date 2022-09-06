@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <module name="potentialCustomer">
+        <!--个人资源-->
+        <locator name="potential_tab_personal" type="id" value="tab_tab_0_Td02"  waitSec="3" />
+        <locator name="potential_per_state" type="id" value="PER_STATE"  waitSec="3" />
+        <!--个人资源查看详情-->
+        <locator name="potential_per_detail_name" type="id" value="PER_NAME"  waitSec="5" />
+        <locator name="potential_per_detail_state" type="id" value="PER_STATE_TEXT"  waitSec="3" />
+        <!--组织资源-->
+        <locator name="potential_tab_organization" type="id" value="tab_tab_1_Td02"  waitSec="3" />
+        <locator name="potential_org_state" type="id" value="ORG_STATE"  waitSec="3" />
+        <!--组织资源查看详情-->
+        <locator name="potential_org_detail_name" type="id" value="ORG_NAME"  waitSec="5" />
+        <locator name="potential_org_detail_state" type="id" value="ORG_STATE_TEXT"  waitSec="3" />
+        <!--个人资源和组织资源共用-->
+        <locator name="potential_query" type="id" value="button"  waitSec="3" />
+        <locator name="potential_row" type="id" value="ec_table_body"  waitSec="3" />
+        <locator name="potential_check" type="cssSelector" value="input[title=查看]"  waitSec="3" />
+    </module>
+  
+</root>

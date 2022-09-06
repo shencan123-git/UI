@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <module name="menu">
+        <!--客户管理-->
+        <locator name="menu_btn_customer" type="id" value="jd1"  waitSec="10" />
+        <locator name="menu_btn_potential" type="linkText" value="潜在客户"  waitSec="3" />
+        <locator name="menu_btn_groups" type="id" value="sd3"  waitSec="3" />
+        <locator name="menu_btn_info" type="id" value="sd4"  waitSec="3" />
+        <locator name="menu_btn_clue" type="id" value="sd5"  waitSec="3" />
+        <locator name="menu_btn_visit" type="id" value="sd6"  waitSec="3" />
+        <locator name="menu_btn_business" type="id" value="sd7"  waitSec="3" />
+        <locator name="menu_btn_order" type="id" value="sd8"  waitSec="3" />
+        <!--系统管理-->
+        <locator name="menu_btn_system" type="id" value="jd9"  waitSec="3" />
+        <locator name="menu_btn_organization" type="id" value="sd10"  waitSec="3" />
+        <locator name="menu_btn_role" type="id" value="sd11"  waitSec="3" />
+        <locator name="menu_btn_function" type="id" value="sd12"  waitSec="3" />
+        <locator name="menu_btn_codeType" type="id" value="sd13"  waitSec="3" />
+        <locator name="menu_btn_codeManage" type="id" value="sd14"  waitSec="3" />
+        <locator name="menu_btn_log" type="id" value="sd15"  waitSec="3" />
+        <locator name="menu_btn_attach" type="id" value="sd16"  waitSec="3" />
+        <locator name="menu_btn_pwdChange" type="id" value="sd17"  waitSec="3" />
+    </module>
+  
+</root>

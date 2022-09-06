@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <module name="organization">
+        <!--组织机构分组列表-->
+        <locator name="organization_btn_add" type="cssSelector" value="input[title=新增]"  waitSec="3" />
+        <locator name="organization_txt_company" type="id" value="sd0"  waitSec="3" />
+        <locator name="organization_txt_tree" type="id" value="sd3"  waitSec="3" />
+        <locator name="organization_btn_delete" type="className" value="delImgBtn"  waitSec="3" />
+
+        <!--组织机构新增页面-->
+        <locator name="organization_input_code" type="id" value="GRP_CODE"  waitSec="3" />
+        <locator name="organization_input_name" type="id" value="GRP_NAME"  waitSec="3" />
+        <locator name="organization_btn_save" type="id" value="saveImgBtn"  waitSec="3" />
+    </module>
+  
+</root>

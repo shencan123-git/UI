@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <module name="frame">
+        <locator name="frame_topLeft" type="id" value="topleft"  waitSec="3" />
+        <locator name="frame_topBottom" type="id" value="topbottom"  waitSec="3" />
+        <locator name="frame_topRight" type="id" value="topright"  waitSec="3" />
+        <locator name="frame_leftFrame" type="id" value="leftFrame"  waitSec="3" />
+        <locator name="frame_mainFrame" type="id" value="mainFrame"  waitSec="3" />
+        <locator name="frame_per_OrgFrame" type="xpath" value="//iframe[@src='index?PerInfoManageList']"  waitSec="3" />
+        <locator name="frame_org_OrgFrame" type="xpath" value="//iframe[@src='index?OrgInfoManageList']"  waitSec="3" />
+        <locator name="frame_treeBoxFrame" type="id" value="operaTreeBoxIframe"  waitSec="3" />
+
+
+    </module>
+  
+</root>

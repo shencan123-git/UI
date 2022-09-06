@@ -1,0 +1,1579 @@
+[2019-09-02 22:53:39,833][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-02 22:53:39,841][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-02 22:53:39,869][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-02 22:54:25,407][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-02 22:54:25,407][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-02 22:54:25,410][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-02 22:54:29,630][test_purchase_poject_testcases.py][line: 26][INFO] test_purchase_project
+[2019-09-02 22:54:29,779][web_base_page.py][line: 105][INFO] click element : login_btn_login
+[2019-09-02 22:54:43,452][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-02 22:54:43,454][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-02 22:54:43,459][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-02 22:54:47,460][test_purchase_poject_testcases.py][line: 26][INFO] test_purchase_project
+[2019-09-02 22:55:00,135][web_base_page.py][line: 105][INFO] click element : login_btn_login
+[2019-09-14 09:45:12,159][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 09:45:12,175][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 09:45:12,175][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 09:45:16,973][test_purchase_poject_testcases.py][line: 24][INFO] test_purchase_project
+[2019-09-14 11:28:55,056][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 11:28:55,057][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 11:28:55,061][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 11:28:59,439][test_purchase_poject_testcases.py][line: 26][INFO] test_purchase_project
+[2019-09-14 11:32:03,622][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 11:32:03,623][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 11:32:03,628][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 11:32:07,938][test_purchase_poject_testcases.py][line: 26][INFO] test_purchase_project
+[2019-09-14 11:34:54,203][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 11:34:54,203][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 11:34:54,206][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 11:34:58,503][test_purchase_poject_testcases.py][line: 26][INFO] test_purchase_project
+[2019-09-14 11:35:00,557][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 11:35:00,653][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 11:35:22,488][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 11:35:22,489][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 11:35:22,492][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 11:35:26,716][test_purchase_poject_testcases.py][line: 26][INFO] test_purchase_project
+[2019-09-14 11:35:28,766][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 11:35:28,855][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 11:35:40,929][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 11:35:40,930][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 11:35:40,936][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 11:35:44,969][test_purchase_poject_testcases.py][line: 26][INFO] test_purchase_project
+[2019-09-14 11:35:52,663][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 11:35:59,066][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 11:38:26,386][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 11:38:26,386][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 11:38:26,386][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 11:38:30,817][test_purchase_poject_testcases.py][line: 26][INFO] test_purchase_project
+[2019-09-14 11:38:32,876][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 11:38:32,966][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 12:02:27,293][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 12:02:27,294][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 12:02:27,297][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 12:02:31,578][test_potential_testcases.py][line: 26][INFO] test_potential_query
+[2019-09-14 12:02:33,604][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 12:02:33,694][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 12:09:00,126][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 12:09:00,127][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 12:09:00,130][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 12:09:04,218][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 12:09:06,245][web_base_page.py][line: 164][INFO] click element : frame_leftFrame
+[2019-09-14 12:09:45,035][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 12:09:45,036][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 12:09:45,043][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 12:09:49,312][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 12:10:23,583][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 12:10:23,584][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 12:10:23,587][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 12:10:27,839][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 12:10:29,863][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 12:10:29,946][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 12:29:18,956][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 12:29:18,956][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 12:29:18,956][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 12:29:23,436][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 12:29:25,454][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 12:29:25,542][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 12:30:53,653][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 12:30:53,653][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 12:30:53,653][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 12:30:58,056][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 12:31:00,074][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 12:31:00,165][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 12:32:54,243][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 12:32:54,243][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 12:32:54,243][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 12:32:58,790][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 12:33:00,814][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 12:33:00,907][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 12:33:26,171][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 12:33:26,171][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 12:33:26,187][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 12:33:30,685][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 12:33:32,734][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 12:33:32,828][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 12:34:40,605][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 12:34:40,605][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 12:34:40,621][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 12:34:45,167][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 12:34:47,225][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 12:34:47,314][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 12:35:09,908][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 12:35:09,924][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 12:35:09,924][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 12:35:14,356][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 12:35:16,372][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 12:35:16,470][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 12:36:36,913][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 12:36:36,913][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 12:36:36,913][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 12:36:41,414][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 12:36:43,431][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 12:36:43,517][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 12:36:46,780][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 12:36:48,944][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 15:44:53,543][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 15:44:53,543][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 15:44:53,558][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 15:44:57,903][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 15:46:59,247][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 15:46:59,247][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 15:46:59,262][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 15:47:03,739][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 15:47:05,769][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 15:47:05,856][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 15:47:09,084][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 15:47:11,323][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 15:59:14,277][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 15:59:14,277][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 15:59:14,277][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 15:59:18,773][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 15:59:20,831][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 15:59:20,921][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 15:59:24,174][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 15:59:26,343][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 15:59:26,443][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 16:00:12,807][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:00:12,807][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:00:12,823][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:00:17,278][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 16:00:19,302][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 16:00:19,389][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 16:00:22,605][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 16:00:24,793][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 16:00:24,894][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 16:03:06,410][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:03:06,410][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:03:06,410][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:03:10,701][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 16:06:40,691][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:06:40,691][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:06:40,691][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:06:45,154][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 16:06:45,186][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 16:06:45,260][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 16:06:48,543][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 16:06:50,713][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 16:06:50,818][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 16:07:04,113][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:07:04,129][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:07:04,129][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:07:08,512][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 16:24:25,961][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:24:25,961][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:24:25,961][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:24:30,479][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 16:24:30,499][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 16:24:30,586][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 16:24:33,859][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 16:24:36,041][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 16:24:36,144][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 16:24:47,792][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:24:47,792][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:24:47,792][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:30:44,788][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:30:44,788][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:30:44,788][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:30:47,380][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 16:30:49,302][chrome_driver_init.py][line: 28][INFO] 登录成功
+[2019-09-14 16:30:49,303][test_potential_testcases.py][line: 28][INFO] test_potential_query
+[2019-09-14 16:30:49,325][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 16:30:49,407][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 16:30:49,814][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 16:30:51,995][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 16:30:52,103][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 16:36:58,828][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:36:58,828][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:36:58,828][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:37:01,388][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 16:37:03,295][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 16:37:03,295][test_potential_testcases.py][line: 27][INFO] test_potential_query
+[2019-09-14 16:37:03,318][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 16:37:03,397][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 16:39:15,112][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:39:15,112][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:39:15,127][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:39:17,677][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 16:39:19,606][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 16:39:19,607][test_potential_testcases.py][line: 27][INFO] test_potential_query
+[2019-09-14 16:39:19,621][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 16:39:19,634][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 16:39:19,700][test_potential_testcases.py][line: 34][INFO] 点击潜在客户
+[2019-09-14 16:39:19,713][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 16:43:48,738][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:43:48,738][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:43:48,738][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:43:51,220][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 16:43:53,139][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 16:43:53,140][test_potential_testcases.py][line: 27][INFO] test_potential_query
+[2019-09-14 16:43:53,151][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 16:43:53,163][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 16:43:53,231][test_potential_testcases.py][line: 34][INFO] 点击潜在客户
+[2019-09-14 16:43:53,243][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 16:44:07,098][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:44:07,098][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:44:07,114][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:44:09,620][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 16:44:11,512][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 16:44:11,513][test_potential_testcases.py][line: 27][INFO] test_potential_query
+[2019-09-14 16:44:11,529][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 16:44:11,541][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 16:44:11,612][test_potential_testcases.py][line: 34][INFO] 点击潜在客户
+[2019-09-14 16:44:11,625][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 16:56:41,209][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:56:41,209][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:56:41,209][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:56:43,790][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 16:56:45,676][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 16:56:45,677][test_potential_testcases.py][line: 27][INFO] test_potential_query
+[2019-09-14 16:56:45,691][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 16:56:45,703][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 16:56:45,776][test_potential_testcases.py][line: 34][INFO] 点击潜在客户
+[2019-09-14 16:56:45,790][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 16:58:55,501][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 16:58:55,501][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 16:58:55,516][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 16:58:58,126][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 16:59:00,056][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 16:59:00,057][test_potential_testcases.py][line: 27][INFO] test_potential_query
+[2019-09-14 16:59:00,071][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 16:59:00,082][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 16:59:00,149][test_potential_testcases.py][line: 34][INFO] 点击潜在客户
+[2019-09-14 16:59:00,162][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:01:08,479][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:01:08,479][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:01:08,479][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:01:11,027][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:01:12,937][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:01:12,937][test_potential_testcases.py][line: 27][INFO] test_potential_query
+[2019-09-14 17:01:12,946][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 17:01:12,958][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:01:13,023][test_potential_testcases.py][line: 34][INFO] 点击潜在客户
+[2019-09-14 17:01:13,032][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:01:13,347][test_potential_testcases.py][line: 43][INFO] 查询条件状态选择有效
+[2019-09-14 17:01:13,454][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 17:01:15,606][test_potential_testcases.py][line: 49][INFO] 选择数据
+[2019-09-14 17:01:15,621][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 17:01:15,707][test_potential_testcases.py][line: 52][INFO] 点击查看按钮
+[2019-09-14 17:01:15,719][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 17:18:12,339][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:18:12,339][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:18:12,339][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:18:14,936][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:18:16,839][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:18:16,839][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:18:16,852][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 17:18:16,863][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:18:16,937][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 17:18:16,951][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:18:17,268][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,查询按钮可见
+[2019-09-14 17:18:17,285][test_potential_testcases.py][line: 40][INFO] 查询条件状态选择有效
+[2019-09-14 17:18:17,387][test_potential_testcases.py][line: 42][INFO] 点击查询
+[2019-09-14 17:18:17,394][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 17:18:18,555][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-14 17:18:18,555][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 17:18:18,650][test_potential_testcases.py][line: 47][INFO] 点击查看按钮
+[2019-09-14 17:18:18,659][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 17:18:18,791][test_potential_testcases.py][line: 49][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:18:18,816][test_potential_testcases.py][line: 51][INFO] 判断姓名正确
+[2019-09-14 17:19:29,364][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:19:29,364][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:19:29,364][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:19:31,934][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:19:33,872][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:19:33,873][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:19:33,885][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 17:19:33,896][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:19:33,969][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 17:19:33,981][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:19:34,272][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,查询按钮可见
+[2019-09-14 17:19:34,292][test_potential_testcases.py][line: 40][INFO] 查询条件状态选择有效
+[2019-09-14 17:19:34,395][test_potential_testcases.py][line: 42][INFO] 点击查询
+[2019-09-14 17:19:34,402][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 17:19:35,560][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-14 17:19:35,560][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 17:19:35,651][test_potential_testcases.py][line: 47][INFO] 点击查看按钮
+[2019-09-14 17:19:35,666][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 17:19:35,802][test_potential_testcases.py][line: 49][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:19:35,829][test_potential_testcases.py][line: 51][INFO] 判断姓名正确
+[2019-09-14 17:23:56,422][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:23:56,422][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:23:56,422][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:23:59,032][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:24:00,920][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:24:00,920][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:24:00,932][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 17:24:00,942][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:24:01,017][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 17:24:01,027][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:24:01,333][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,查询按钮可见
+[2019-09-14 17:24:01,353][test_potential_testcases.py][line: 40][INFO] 查询条件状态选择有效
+[2019-09-14 17:24:01,457][test_potential_testcases.py][line: 42][INFO] 点击查询
+[2019-09-14 17:24:01,465][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 17:24:02,625][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-14 17:24:02,625][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 17:24:02,716][test_potential_testcases.py][line: 47][INFO] 点击查看按钮
+[2019-09-14 17:24:02,725][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 17:24:02,858][test_potential_testcases.py][line: 49][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:24:02,883][test_potential_testcases.py][line: 51][INFO] 判断姓名正确
+[2019-09-14 17:24:02,898][test_potential_testcases.py][line: 53][INFO] 判断状态正确
+[2019-09-14 17:24:02,910][test_potential_testcases.py][line: 55][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 17:29:49,839][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:29:49,839][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:29:49,854][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:29:52,423][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:29:54,303][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:29:54,303][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:29:54,314][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 17:29:54,324][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:29:54,398][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 17:29:54,411][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:29:54,712][web_base_page.py][line: 164][INFO] click element : potential_tab_personal
+[2019-09-14 17:29:54,882][test_potential_testcases.py][line: 39][INFO] 判断是否打开潜在客户页面,查询按钮可见
+[2019-09-14 17:29:54,906][test_potential_testcases.py][line: 41][INFO] 查询条件状态选择有效
+[2019-09-14 17:29:55,012][test_potential_testcases.py][line: 43][INFO] 点击查询
+[2019-09-14 17:29:55,018][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 17:29:56,163][test_potential_testcases.py][line: 46][INFO] 选择数据
+[2019-09-14 17:29:56,178][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 17:29:56,266][test_potential_testcases.py][line: 48][INFO] 点击查看按钮
+[2019-09-14 17:29:56,275][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 17:29:56,408][test_potential_testcases.py][line: 50][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:29:56,433][test_potential_testcases.py][line: 52][INFO] 判断姓名正确
+[2019-09-14 17:29:56,446][test_potential_testcases.py][line: 54][INFO] 判断状态正确
+[2019-09-14 17:29:56,461][test_potential_testcases.py][line: 56][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 17:31:56,148][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:31:56,164][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:31:56,164][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:31:58,738][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:32:00,638][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:32:00,638][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:32:00,647][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 17:32:00,661][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:32:00,733][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 17:32:00,746][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:32:01,022][test_potential_testcases.py][line: 37][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 17:32:01,054][web_base_page.py][line: 164][INFO] click element : potential_tab_personal
+[2019-09-14 17:32:01,222][test_potential_testcases.py][line: 41][INFO] 查询条件状态选择有效
+[2019-09-14 17:32:01,332][test_potential_testcases.py][line: 43][INFO] 点击查询
+[2019-09-14 17:32:01,342][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 17:32:02,490][test_potential_testcases.py][line: 46][INFO] 选择数据
+[2019-09-14 17:32:02,505][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 17:32:02,589][test_potential_testcases.py][line: 48][INFO] 点击查看按钮
+[2019-09-14 17:32:02,599][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 17:32:02,739][test_potential_testcases.py][line: 50][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:32:02,759][test_potential_testcases.py][line: 52][INFO] 判断姓名正确
+[2019-09-14 17:32:02,772][test_potential_testcases.py][line: 54][INFO] 判断状态正确
+[2019-09-14 17:32:02,786][test_potential_testcases.py][line: 56][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 17:32:31,083][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:32:31,083][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:32:31,098][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:32:33,659][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:32:35,591][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:32:35,591][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:32:35,604][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 17:32:35,617][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:32:35,687][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 17:32:35,699][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:32:36,008][test_potential_testcases.py][line: 37][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 17:32:36,030][web_base_page.py][line: 164][INFO] click element : potential_tab_personal
+[2019-09-14 17:32:36,196][test_potential_testcases.py][line: 41][INFO] 查询条件状态选择有效
+[2019-09-14 17:32:36,295][test_potential_testcases.py][line: 43][INFO] 点击查询
+[2019-09-14 17:32:36,304][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 17:32:36,431][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-14 17:32:38,454][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 17:32:38,535][test_potential_testcases.py][line: 48][INFO] 点击查看按钮
+[2019-09-14 17:32:38,548][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 17:32:38,695][test_potential_testcases.py][line: 50][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:32:38,716][test_potential_testcases.py][line: 52][INFO] 判断姓名正确
+[2019-09-14 17:32:38,727][test_potential_testcases.py][line: 54][INFO] 判断状态正确
+[2019-09-14 17:32:38,741][test_potential_testcases.py][line: 56][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 17:32:56,730][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:32:56,730][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:32:56,730][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:32:59,330][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:33:01,235][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:33:01,235][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:33:01,247][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 17:33:01,257][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:33:01,330][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 17:33:01,343][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:33:01,641][test_potential_testcases.py][line: 37][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 17:33:01,670][test_potential_testcases.py][line: 41][INFO] 查询条件状态选择有效
+[2019-09-14 17:33:01,770][test_potential_testcases.py][line: 43][INFO] 点击查询
+[2019-09-14 17:33:01,781][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 17:33:01,924][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-14 17:33:03,925][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 17:33:04,014][test_potential_testcases.py][line: 48][INFO] 点击查看按钮
+[2019-09-14 17:33:04,025][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 17:33:04,156][test_potential_testcases.py][line: 50][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:33:04,181][test_potential_testcases.py][line: 52][INFO] 判断姓名正确
+[2019-09-14 17:33:04,193][test_potential_testcases.py][line: 54][INFO] 判断状态正确
+[2019-09-14 17:33:04,204][test_potential_testcases.py][line: 56][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 17:33:39,438][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:33:39,454][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:33:39,454][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:33:41,978][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:33:43,869][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:33:43,869][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:33:43,879][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 17:33:43,892][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:33:43,968][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 17:33:43,978][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:33:46,065][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 17:33:46,096][test_potential_testcases.py][line: 42][INFO] 查询条件状态选择有效
+[2019-09-14 17:33:46,210][test_potential_testcases.py][line: 44][INFO] 点击查询
+[2019-09-14 17:33:46,220][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 17:33:46,368][test_potential_testcases.py][line: 46][INFO] 选择数据
+[2019-09-14 17:33:48,376][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 17:33:48,469][test_potential_testcases.py][line: 49][INFO] 点击查看按钮
+[2019-09-14 17:33:48,481][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 17:33:48,609][test_potential_testcases.py][line: 51][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:33:48,632][test_potential_testcases.py][line: 53][INFO] 判断姓名正确
+[2019-09-14 17:33:48,643][test_potential_testcases.py][line: 55][INFO] 判断状态正确
+[2019-09-14 17:33:48,658][test_potential_testcases.py][line: 57][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 17:34:22,296][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:34:22,296][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:34:22,312][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:34:24,878][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:34:26,796][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:34:26,796][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:34:26,807][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 17:34:26,817][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:34:26,888][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 17:34:26,902][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:34:28,972][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 17:34:29,004][test_potential_testcases.py][line: 42][INFO] 查询条件状态选择有效
+[2019-09-14 17:34:29,117][test_potential_testcases.py][line: 44][INFO] 点击查询
+[2019-09-14 17:34:29,129][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 17:34:29,287][test_potential_testcases.py][line: 46][INFO] 选择数据
+[2019-09-14 17:34:31,299][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 17:34:31,409][test_potential_testcases.py][line: 49][INFO] 点击查看按钮
+[2019-09-14 17:34:31,420][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 17:34:33,555][test_potential_testcases.py][line: 52][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:34:33,586][test_potential_testcases.py][line: 54][INFO] 判断姓名正确
+[2019-09-14 17:34:33,586][test_potential_testcases.py][line: 56][INFO] 判断状态正确
+[2019-09-14 17:34:33,602][test_potential_testcases.py][line: 58][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 17:34:42,156][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:34:42,156][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:34:42,156][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:34:44,741][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:34:46,671][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:34:46,671][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:34:46,680][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 17:34:46,691][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:34:46,757][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 17:34:46,766][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:34:48,873][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 17:34:48,904][test_potential_testcases.py][line: 42][INFO] 查询条件状态选择有效
+[2019-09-14 17:34:49,016][test_potential_testcases.py][line: 44][INFO] 点击查询
+[2019-09-14 17:34:49,030][web_base_page.py][line: 164][INFO] click element : potential_btn_query
+[2019-09-14 17:34:49,188][test_potential_testcases.py][line: 46][INFO] 选择数据
+[2019-09-14 17:34:49,203][web_base_page.py][line: 164][INFO] click element : potential_table_row
+[2019-09-14 17:34:49,281][test_potential_testcases.py][line: 48][INFO] 点击查看按钮
+[2019-09-14 17:34:49,291][web_base_page.py][line: 164][INFO] click element : potential_input_check
+[2019-09-14 17:34:51,426][test_potential_testcases.py][line: 51][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:34:51,442][test_potential_testcases.py][line: 53][INFO] 判断姓名正确
+[2019-09-14 17:34:51,457][test_potential_testcases.py][line: 55][INFO] 判断状态正确
+[2019-09-14 17:34:51,473][test_potential_testcases.py][line: 57][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 17:45:11,515][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:45:11,515][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:45:11,515][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:45:14,093][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:45:15,989][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:45:15,989][test_potential_testcases.py][line: 61][INFO] start to run test case test_potential_organization_query
+[2019-09-14 17:45:16,002][test_potential_testcases.py][line: 64][INFO] 点击客户管理
+[2019-09-14 17:45:16,016][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:45:16,086][test_potential_testcases.py][line: 66][INFO] 点击潜在客户
+[2019-09-14 17:45:16,099][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:45:18,403][test_potential_testcases.py][line: 72][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 17:45:18,434][web_base_page.py][line: 164][INFO] click element : potential_tab_organization
+[2019-09-14 17:45:18,652][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-14 17:47:30,668][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:47:30,668][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:47:30,668][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:47:33,315][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:47:35,212][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:47:35,213][test_potential_testcases.py][line: 61][INFO] start to run test case test_potential_organization_query
+[2019-09-14 17:47:35,226][test_potential_testcases.py][line: 64][INFO] 点击客户管理
+[2019-09-14 17:47:35,238][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:47:35,309][test_potential_testcases.py][line: 66][INFO] 点击潜在客户
+[2019-09-14 17:47:35,318][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:47:37,398][test_potential_testcases.py][line: 72][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 17:47:37,429][web_base_page.py][line: 164][INFO] click element : potential_tab_organization
+[2019-09-14 17:47:37,630][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-14 17:48:19,849][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:48:19,865][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:48:19,865][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:48:22,374][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:48:24,251][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:48:24,251][test_potential_testcases.py][line: 61][INFO] start to run test case test_potential_organization_query
+[2019-09-14 17:48:24,264][test_potential_testcases.py][line: 64][INFO] 点击客户管理
+[2019-09-14 17:48:24,275][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:48:24,346][test_potential_testcases.py][line: 66][INFO] 点击潜在客户
+[2019-09-14 17:48:24,355][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:48:26,419][test_potential_testcases.py][line: 72][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 17:48:26,450][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-14 17:48:26,569][test_potential_testcases.py][line: 78][INFO] 点击查询
+[2019-09-14 17:48:26,581][web_base_page.py][line: 164][INFO] click element : potential_per_query
+[2019-09-14 17:48:26,736][test_potential_testcases.py][line: 80][INFO] 选择数据
+[2019-09-14 17:48:26,751][web_base_page.py][line: 164][INFO] click element : potential_per_row
+[2019-09-14 17:48:26,859][test_potential_testcases.py][line: 82][INFO] 点击查看按钮
+[2019-09-14 17:48:26,868][web_base_page.py][line: 164][INFO] click element : potential_per_check
+[2019-09-14 17:48:29,000][test_potential_testcases.py][line: 85][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:48:29,015][test_potential_testcases.py][line: 87][INFO] 判断姓名正确
+[2019-09-14 17:48:29,031][test_potential_testcases.py][line: 89][INFO] 判断状态正确
+[2019-09-14 17:48:29,046][test_potential_testcases.py][line: 91][INFO] finish to run test case test_potential_organization_query
+[2019-09-14 17:49:07,697][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:49:07,697][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:49:07,697][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:49:10,286][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:49:12,167][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:49:12,167][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:49:12,176][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 17:49:12,189][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:49:12,262][test_potential_testcases.py][line: 33][INFO] 点击潜在客户
+[2019-09-14 17:49:12,275][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:49:14,553][test_potential_testcases.py][line: 39][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 17:49:14,584][test_potential_testcases.py][line: 42][INFO] 查询条件状态选择有效
+[2019-09-14 17:49:14,716][test_potential_testcases.py][line: 44][INFO] 点击查询
+[2019-09-14 17:49:14,726][web_base_page.py][line: 164][INFO] click element : potential_per_query
+[2019-09-14 17:49:14,874][test_potential_testcases.py][line: 46][INFO] 选择数据
+[2019-09-14 17:49:14,885][web_base_page.py][line: 164][INFO] click element : potential_per_row
+[2019-09-14 17:49:14,968][test_potential_testcases.py][line: 48][INFO] 点击查看按钮
+[2019-09-14 17:49:14,978][web_base_page.py][line: 164][INFO] click element : potential_per_check
+[2019-09-14 17:49:17,118][test_potential_testcases.py][line: 51][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:49:17,155][test_potential_testcases.py][line: 53][INFO] 判断姓名正确
+[2019-09-14 17:49:17,160][test_potential_testcases.py][line: 55][INFO] 判断状态正确
+[2019-09-14 17:49:17,198][test_potential_testcases.py][line: 58][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 17:54:26,847][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:54:26,847][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:54:26,863][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:54:29,456][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:54:31,362][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:54:31,362][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:54:31,376][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 17:54:31,389][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:54:31,462][test_potential_testcases.py][line: 33][INFO] 点击潜在客户
+[2019-09-14 17:54:31,475][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:54:32,759][test_potential_testcases.py][line: 39][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 17:54:32,790][test_potential_testcases.py][line: 42][INFO] 查询条件状态选择有效
+[2019-09-14 17:54:32,908][test_potential_testcases.py][line: 44][INFO] 点击查询
+[2019-09-14 17:55:39,608][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 17:55:39,608][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 17:55:39,623][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 17:55:42,187][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 17:55:44,149][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 17:55:44,149][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 17:55:44,163][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 17:55:44,173][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 17:55:44,236][test_potential_testcases.py][line: 33][INFO] 点击潜在客户
+[2019-09-14 17:55:44,249][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 17:55:45,346][test_potential_testcases.py][line: 39][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 17:55:45,377][test_potential_testcases.py][line: 42][INFO] 查询条件状态选择有效
+[2019-09-14 17:55:45,490][test_potential_testcases.py][line: 44][INFO] 点击查询
+[2019-09-14 17:55:45,500][web_base_page.py][line: 164][INFO] click element : potential_query
+[2019-09-14 17:55:45,657][test_potential_testcases.py][line: 46][INFO] 选择数据
+[2019-09-14 17:55:45,671][web_base_page.py][line: 164][INFO] click element : potential_row
+[2019-09-14 17:55:45,749][test_potential_testcases.py][line: 48][INFO] 点击查看按钮
+[2019-09-14 17:55:45,760][web_base_page.py][line: 164][INFO] click element : potential_check
+[2019-09-14 17:55:47,883][test_potential_testcases.py][line: 51][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 17:55:47,914][test_potential_testcases.py][line: 53][INFO] 判断姓名正确
+[2019-09-14 17:55:47,929][test_potential_testcases.py][line: 55][INFO] 判断状态正确
+[2019-09-14 17:55:47,929][test_potential_testcases.py][line: 57][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 18:00:27,408][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:00:27,408][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:00:27,408][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:00:29,975][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:00:31,923][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:00:31,923][test_potential_testcases.py][line: 61][INFO] start to run test case test_potential_organization_query
+[2019-09-14 18:00:31,937][test_potential_testcases.py][line: 64][INFO] 点击客户管理
+[2019-09-14 18:00:31,950][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:00:32,021][test_potential_testcases.py][line: 66][INFO] 点击潜在客户
+[2019-09-14 18:00:32,030][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:00:34,136][test_potential_testcases.py][line: 72][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:00:34,167][web_base_page.py][line: 164][INFO] click element : potential_tab_organization
+[2019-09-14 18:00:34,376][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-14 18:00:49,209][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:00:49,209][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:00:49,209][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:00:51,793][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:00:53,686][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:00:53,686][test_potential_testcases.py][line: 61][INFO] start to run test case test_potential_organization_query
+[2019-09-14 18:00:53,701][test_potential_testcases.py][line: 64][INFO] 点击客户管理
+[2019-09-14 18:00:53,714][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:00:53,784][test_potential_testcases.py][line: 66][INFO] 点击潜在客户
+[2019-09-14 18:00:53,796][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:00:55,869][test_potential_testcases.py][line: 72][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:00:55,900][web_base_page.py][line: 164][INFO] click element : potential_tab_organization
+[2019-09-14 18:00:56,112][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-14 18:03:02,921][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:03:02,921][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:03:02,921][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:03:05,530][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:03:07,417][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:03:07,420][test_potential_testcases.py][line: 61][INFO] start to run test case test_potential_organization_query
+[2019-09-14 18:03:07,430][test_potential_testcases.py][line: 64][INFO] 点击客户管理
+[2019-09-14 18:03:07,444][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:03:07,531][test_potential_testcases.py][line: 66][INFO] 点击潜在客户
+[2019-09-14 18:03:07,546][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:03:09,632][test_potential_testcases.py][line: 72][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:03:09,663][test_potential_testcases.py][line: 74][INFO] 点击组织资源标签
+[2019-09-14 18:03:09,678][web_base_page.py][line: 164][INFO] click element : potential_tab_organization
+[2019-09-14 18:03:09,873][test_potential_testcases.py][line: 77][INFO] 查询条件状态选择有效
+[2019-09-14 18:05:15,942][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:05:15,942][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:05:15,942][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:05:18,471][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:05:20,387][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:05:20,388][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 18:05:20,400][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 18:05:20,413][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:05:20,482][test_potential_testcases.py][line: 33][INFO] 点击潜在客户
+[2019-09-14 18:05:20,494][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:05:21,559][test_potential_testcases.py][line: 39][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:05:21,590][test_potential_testcases.py][line: 42][INFO] 查询条件状态选择有效
+[2019-09-14 18:05:21,703][test_potential_testcases.py][line: 44][INFO] 点击查询
+[2019-09-14 18:05:21,713][web_base_page.py][line: 164][INFO] click element : potential_query
+[2019-09-14 18:05:21,857][test_potential_testcases.py][line: 46][INFO] 选择数据
+[2019-09-14 18:05:21,872][web_base_page.py][line: 164][INFO] click element : potential_row
+[2019-09-14 18:05:21,953][test_potential_testcases.py][line: 48][INFO] 点击查看按钮
+[2019-09-14 18:05:21,964][web_base_page.py][line: 164][INFO] click element : potential_check
+[2019-09-14 18:05:24,107][test_potential_testcases.py][line: 51][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 18:05:24,138][test_potential_testcases.py][line: 53][INFO] 判断姓名正确
+[2019-09-14 18:05:24,154][test_potential_testcases.py][line: 55][INFO] 判断状态正确
+[2019-09-14 18:05:24,154][test_potential_testcases.py][line: 57][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 18:05:32,667][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:05:32,683][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:05:32,683][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:05:35,300][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:05:37,183][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:05:37,183][test_potential_testcases.py][line: 61][INFO] start to run test case test_potential_organization_query
+[2019-09-14 18:05:37,198][test_potential_testcases.py][line: 64][INFO] 点击客户管理
+[2019-09-14 18:05:37,210][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:05:37,280][test_potential_testcases.py][line: 66][INFO] 点击潜在客户
+[2019-09-14 18:05:37,293][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:05:39,386][test_potential_testcases.py][line: 72][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:05:39,433][test_potential_testcases.py][line: 74][INFO] 点击组织资源标签
+[2019-09-14 18:05:39,433][web_base_page.py][line: 164][INFO] click element : potential_tab_organization
+[2019-09-14 18:05:39,632][test_potential_testcases.py][line: 77][INFO] 查询条件状态选择有效
+[2019-09-14 18:06:45,492][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:06:45,492][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:06:45,508][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:06:48,119][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:06:50,045][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:06:50,046][test_potential_testcases.py][line: 61][INFO] start to run test case test_potential_organization_query
+[2019-09-14 18:06:50,056][test_potential_testcases.py][line: 64][INFO] 点击客户管理
+[2019-09-14 18:06:50,067][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:06:50,147][test_potential_testcases.py][line: 66][INFO] 点击潜在客户
+[2019-09-14 18:06:50,158][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:06:52,247][test_potential_testcases.py][line: 72][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:06:52,294][test_potential_testcases.py][line: 74][INFO] 点击组织资源标签
+[2019-09-14 18:06:52,309][web_base_page.py][line: 164][INFO] click element : potential_tab_organization
+[2019-09-14 18:06:52,493][test_potential_testcases.py][line: 77][INFO] 查询条件状态选择有效
+[2019-09-14 18:06:52,493][test_potential_testcases.py][line: 79][INFO] 点击查询
+[2019-09-14 18:06:52,508][web_base_page.py][line: 164][INFO] click element : potential_query
+[2019-09-14 18:21:09,022][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:21:09,022][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:21:09,022][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:21:11,496][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:21:13,379][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:21:13,379][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 18:21:13,393][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 18:21:13,406][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:21:13,476][test_potential_testcases.py][line: 33][INFO] 点击潜在客户
+[2019-09-14 18:21:13,491][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:21:14,796][test_potential_testcases.py][line: 39][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:22:18,378][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:22:18,378][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:22:18,378][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:22:20,968][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:22:22,846][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:22:22,847][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 18:22:22,858][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 18:22:22,868][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:22:22,944][test_potential_testcases.py][line: 33][INFO] 点击潜在客户
+[2019-09-14 18:22:22,956][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:22:24,030][test_potential_testcases.py][line: 39][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:23:29,835][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:23:29,835][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:23:29,835][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:23:32,345][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:23:34,200][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:23:34,201][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 18:23:34,213][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 18:23:34,226][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:23:34,296][test_potential_testcases.py][line: 33][INFO] 点击潜在客户
+[2019-09-14 18:23:34,305][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:23:35,385][test_potential_testcases.py][line: 39][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:25:28,426][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:25:28,426][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:25:28,442][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:25:31,041][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:25:32,949][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:25:32,952][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 18:25:32,963][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 18:25:32,975][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:25:33,045][test_potential_testcases.py][line: 33][INFO] 点击潜在客户
+[2019-09-14 18:25:33,057][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:25:34,352][test_potential_testcases.py][line: 39][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:27:31,006][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:27:31,006][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:27:31,006][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:27:33,561][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:27:35,537][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:27:35,537][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 18:27:35,553][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 18:27:35,566][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:27:35,630][test_potential_testcases.py][line: 33][INFO] 点击潜在客户
+[2019-09-14 18:27:35,640][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:27:36,705][test_potential_testcases.py][line: 39][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:27:36,752][test_potential_testcases.py][line: 42][INFO] 查询条件状态选择有效
+[2019-09-14 18:27:36,870][test_potential_testcases.py][line: 44][INFO] 点击查询
+[2019-09-14 18:27:36,880][web_base_page.py][line: 164][INFO] click element : potential_query
+[2019-09-14 18:27:37,040][test_potential_testcases.py][line: 46][INFO] 选择数据
+[2019-09-14 18:27:37,051][web_base_page.py][line: 164][INFO] click element : potential_row
+[2019-09-14 18:27:37,127][test_potential_testcases.py][line: 48][INFO] 点击查看按钮
+[2019-09-14 18:27:37,138][web_base_page.py][line: 164][INFO] click element : potential_check
+[2019-09-14 18:27:39,273][test_potential_testcases.py][line: 51][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 18:27:39,304][test_potential_testcases.py][line: 53][INFO] 判断姓名正确
+[2019-09-14 18:27:39,304][test_potential_testcases.py][line: 55][INFO] 判断状态正确
+[2019-09-14 18:27:39,319][test_potential_testcases.py][line: 57][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 18:27:55,480][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:27:55,480][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:27:55,480][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:27:58,068][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:27:59,935][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:27:59,935][test_potential_testcases.py][line: 61][INFO] start to run test case test_potential_organization_query
+[2019-09-14 18:27:59,948][test_potential_testcases.py][line: 64][INFO] 点击客户管理
+[2019-09-14 18:27:59,961][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:28:00,032][test_potential_testcases.py][line: 66][INFO] 点击潜在客户
+[2019-09-14 18:28:00,046][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:28:02,356][test_potential_testcases.py][line: 72][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:28:02,372][test_potential_testcases.py][line: 74][INFO] 点击组织资源标签
+[2019-09-14 18:28:02,387][web_base_page.py][line: 164][INFO] click element : potential_tab_organization
+[2019-09-14 18:28:02,607][test_potential_testcases.py][line: 77][INFO] 查询条件状态选择有效
+[2019-09-14 18:28:02,723][test_potential_testcases.py][line: 79][INFO] 点击查询
+[2019-09-14 18:28:02,733][web_base_page.py][line: 164][INFO] click element : potential_query
+[2019-09-14 18:28:02,867][test_potential_testcases.py][line: 81][INFO] 选择数据
+[2019-09-14 18:28:02,878][web_base_page.py][line: 164][INFO] click element : potential_row
+[2019-09-14 18:28:02,960][test_potential_testcases.py][line: 83][INFO] 点击查看按钮
+[2019-09-14 18:28:02,971][web_base_page.py][line: 164][INFO] click element : potential_check
+[2019-09-14 18:28:05,114][test_potential_testcases.py][line: 86][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 18:28:05,145][test_potential_testcases.py][line: 88][INFO] 判断姓名正确
+[2019-09-14 18:28:05,160][test_potential_testcases.py][line: 90][INFO] 判断状态正确
+[2019-09-14 18:28:05,176][test_potential_testcases.py][line: 92][INFO] finish to run test case test_potential_organization_query
+[2019-09-14 18:28:36,859][main.py][line: 34][INFO] 错误截图路径; F:\虫师资料\webui\脚本\CRMDemo\screenshots
+[2019-09-14 18:28:37,046][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 18:28:37,046][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 18:28:37,062][main.py][line: 46][INFO] 报告路径; F:\虫师资料\webui\脚本\CRMDemo\report\report_20190914_182837.html
+[2019-09-14 18:28:37,062][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:28:39,646][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:28:41,510][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:28:41,510][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 18:28:41,524][test_potential_testcases.py][line: 31][INFO] 点击客户管理
+[2019-09-14 18:28:41,537][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:28:41,603][test_potential_testcases.py][line: 33][INFO] 点击潜在客户
+[2019-09-14 18:28:41,611][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:28:42,712][test_potential_testcases.py][line: 39][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:28:42,774][test_potential_testcases.py][line: 42][INFO] 查询条件状态选择有效
+[2019-09-14 18:28:42,897][test_potential_testcases.py][line: 44][INFO] 点击查询
+[2019-09-14 18:28:42,907][web_base_page.py][line: 164][INFO] click element : potential_query
+[2019-09-14 18:28:43,067][test_potential_testcases.py][line: 46][INFO] 选择数据
+[2019-09-14 18:28:43,076][web_base_page.py][line: 164][INFO] click element : potential_row
+[2019-09-14 18:28:43,153][test_potential_testcases.py][line: 48][INFO] 点击查看按钮
+[2019-09-14 18:28:43,161][web_base_page.py][line: 164][INFO] click element : potential_check
+[2019-09-14 18:28:45,282][test_potential_testcases.py][line: 51][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 18:28:45,314][test_potential_testcases.py][line: 53][INFO] 判断姓名正确
+[2019-09-14 18:28:45,329][test_potential_testcases.py][line: 55][INFO] 判断状态正确
+[2019-09-14 18:28:45,345][test_potential_testcases.py][line: 57][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 18:28:47,595][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 18:28:50,164][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 18:28:52,016][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 18:28:52,016][test_potential_testcases.py][line: 61][INFO] start to run test case test_potential_organization_query
+[2019-09-14 18:28:52,029][test_potential_testcases.py][line: 64][INFO] 点击客户管理
+[2019-09-14 18:28:52,040][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 18:28:52,108][test_potential_testcases.py][line: 66][INFO] 点击潜在客户
+[2019-09-14 18:28:52,120][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 18:28:54,198][test_potential_testcases.py][line: 72][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 18:28:54,230][test_potential_testcases.py][line: 74][INFO] 点击组织资源标签
+[2019-09-14 18:28:54,245][web_base_page.py][line: 164][INFO] click element : potential_tab_organization
+[2019-09-14 18:28:54,447][test_potential_testcases.py][line: 77][INFO] 查询条件状态选择有效
+[2019-09-14 18:28:54,566][test_potential_testcases.py][line: 79][INFO] 点击查询
+[2019-09-14 18:28:54,577][web_base_page.py][line: 164][INFO] click element : potential_query
+[2019-09-14 18:28:54,712][test_potential_testcases.py][line: 81][INFO] 选择数据
+[2019-09-14 18:28:54,723][web_base_page.py][line: 164][INFO] click element : potential_row
+[2019-09-14 18:28:54,803][test_potential_testcases.py][line: 83][INFO] 点击查看按钮
+[2019-09-14 18:28:54,812][web_base_page.py][line: 164][INFO] click element : potential_check
+[2019-09-14 18:28:56,970][test_potential_testcases.py][line: 86][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 18:28:57,003][test_potential_testcases.py][line: 88][INFO] 判断姓名正确
+[2019-09-14 18:28:57,012][test_potential_testcases.py][line: 90][INFO] 判断状态正确
+[2019-09-14 18:28:57,028][test_potential_testcases.py][line: 92][INFO] finish to run test case test_potential_organization_query
+[2019-09-14 19:24:25,818][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 19:24:25,818][xml_utils.py][line: 24][ERROR] xml中元素name有重复，重复名：potential_per_state
+[2019-09-14 19:24:37,439][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 19:24:37,439][xml_utils.py][line: 24][ERROR] xml中元素name有重复，重复名：potential_per_state
+[2019-09-14 20:03:07,064][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:03:07,080][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:03:07,080][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:03:09,514][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:03:11,391][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:03:11,391][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:03:11,403][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:03:11,413][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:03:11,478][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:03:11,492][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:03:12,764][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:03:12,810][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:03:12,810][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:03:12,937][test_organization_testcases.py][line: 42][INFO] 输入编码
+[2019-09-14 20:06:38,998][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:06:38,998][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:06:38,998][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:06:41,543][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:06:43,519][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:06:43,520][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:06:43,533][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:06:43,543][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:06:43,604][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:06:43,617][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:06:44,861][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:06:44,892][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:06:44,908][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:06:45,027][test_organization_testcases.py][line: 42][INFO] 输入编码
+[2019-09-14 20:10:59,064][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:10:59,064][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:10:59,079][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:11:01,610][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:11:03,533][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:11:03,533][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:11:03,546][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:11:03,560][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:11:03,630][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:11:03,643][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:11:04,716][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:11:04,747][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:11:06,771][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:11:06,896][test_organization_testcases.py][line: 43][INFO] 输入编码
+[2019-09-14 20:14:11,726][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:14:11,726][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:14:11,726][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:14:14,332][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:14:16,183][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:14:16,183][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:14:16,196][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:14:16,210][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:14:16,283][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:14:16,297][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:14:17,451][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:14:17,474][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:14:18,504][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:14:18,622][test_organization_testcases.py][line: 43][INFO] 输入编码
+[2019-09-14 20:14:18,663][test_organization_testcases.py][line: 45][INFO] 输入名称
+[2019-09-14 20:14:18,746][test_organization_testcases.py][line: 47][INFO] 点击保存按钮
+[2019-09-14 20:14:56,859][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:14:56,859][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:14:56,859][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:14:59,368][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:15:01,286][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:15:01,287][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:15:01,304][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:15:01,317][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:15:01,399][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:15:01,412][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:15:02,519][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:15:02,535][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:15:03,552][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:15:03,691][test_organization_testcases.py][line: 43][INFO] 输入编码
+[2019-09-14 20:25:04,566][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:25:04,566][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:25:04,566][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:25:07,077][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:25:08,951][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:25:08,951][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:25:08,966][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:25:08,980][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:25:09,051][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:25:09,064][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:25:10,140][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:25:10,171][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:25:11,176][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:25:11,315][test_organization_testcases.py][line: 44][INFO] 输入编码
+[2019-09-14 20:25:11,386][test_organization_testcases.py][line: 46][INFO] 输入名称
+[2019-09-14 20:25:11,433][test_organization_testcases.py][line: 48][INFO] 点击保存按钮
+[2019-09-14 20:25:11,444][web_base_page.py][line: 164][INFO] click element : organization_btn_save
+[2019-09-14 20:25:56,534][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:25:56,534][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:25:56,534][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:25:59,129][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:26:01,052][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:26:01,053][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:26:01,063][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:26:01,075][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:26:01,153][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:26:01,165][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:26:02,382][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:26:02,413][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:26:03,428][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:26:03,576][test_organization_testcases.py][line: 44][INFO] 输入编码
+[2019-09-14 20:26:03,656][test_organization_testcases.py][line: 46][INFO] 输入名称
+[2019-09-14 20:26:03,701][test_organization_testcases.py][line: 48][INFO] 点击保存按钮
+[2019-09-14 20:26:03,711][web_base_page.py][line: 164][INFO] click element : organization_btn_save
+[2019-09-14 20:26:05,951][test_organization_testcases.py][line: 54][INFO] 选择新建的部门
+[2019-09-14 20:26:05,967][web_base_page.py][line: 164][INFO] click element : organization_txt_tree
+[2019-09-14 20:26:06,113][test_organization_testcases.py][line: 56][INFO] 点击删除按钮
+[2019-09-14 20:26:06,124][web_base_page.py][line: 164][INFO] click element : organization_btn_delete
+[2019-09-14 20:26:08,188][test_organization_testcases.py][line: 59][INFO] finish to run test case test_organization_add_department
+[2019-09-14 20:29:55,808][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:29:55,808][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:29:55,808][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:29:58,347][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:30:00,229][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:30:00,229][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:30:00,242][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:30:00,254][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:30:00,323][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:30:00,335][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:30:01,439][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:30:01,470][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:30:02,485][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:30:02,612][test_organization_testcases.py][line: 44][INFO] 输入编码
+[2019-09-14 20:30:02,686][test_organization_testcases.py][line: 46][INFO] 输入名称
+[2019-09-14 20:30:02,732][test_organization_testcases.py][line: 48][INFO] 点击保存按钮
+[2019-09-14 20:30:02,742][web_base_page.py][line: 164][INFO] click element : organization_btn_save
+[2019-09-14 20:30:05,021][test_organization_testcases.py][line: 54][INFO] 选择新建的部门
+[2019-09-14 20:30:05,021][web_base_page.py][line: 164][INFO] click element : organization_txt_tree
+[2019-09-14 20:30:05,156][test_organization_testcases.py][line: 56][INFO] 点击删除按钮
+[2019-09-14 20:30:05,166][web_base_page.py][line: 164][INFO] click element : organization_btn_delete
+[2019-09-14 20:30:07,257][test_organization_testcases.py][line: 65][INFO] finish to run test case test_organization_add_department
+[2019-09-14 20:30:40,780][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:30:40,780][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:30:40,796][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:30:43,353][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:30:45,254][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:30:45,254][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:30:45,266][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:30:45,280][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:30:45,350][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:30:45,362][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:30:46,432][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:30:46,447][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:30:47,463][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:30:47,645][test_organization_testcases.py][line: 44][INFO] 输入编码
+[2019-09-14 20:30:47,717][test_organization_testcases.py][line: 46][INFO] 输入名称
+[2019-09-14 20:30:47,763][test_organization_testcases.py][line: 48][INFO] 点击保存按钮
+[2019-09-14 20:30:47,774][web_base_page.py][line: 164][INFO] click element : organization_btn_save
+[2019-09-14 20:30:48,990][test_organization_testcases.py][line: 54][INFO] 选择新建的部门
+[2019-09-14 20:30:49,006][web_base_page.py][line: 164][INFO] click element : organization_txt_tree
+[2019-09-14 20:30:49,158][test_organization_testcases.py][line: 56][INFO] 点击删除按钮
+[2019-09-14 20:30:49,169][web_base_page.py][line: 164][INFO] click element : organization_btn_delete
+[2019-09-14 20:30:51,285][test_organization_testcases.py][line: 66][INFO] finish to run test case test_organization_add_department
+[2019-09-14 20:31:06,992][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:31:07,007][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:31:07,007][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:31:09,492][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:31:11,397][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:31:11,397][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:31:11,411][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:31:11,425][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:31:11,494][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:31:11,507][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:31:12,723][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:31:12,754][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:31:13,770][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:31:13,909][test_organization_testcases.py][line: 44][INFO] 输入编码
+[2019-09-14 20:31:13,982][test_organization_testcases.py][line: 46][INFO] 输入名称
+[2019-09-14 20:31:14,028][test_organization_testcases.py][line: 48][INFO] 点击保存按钮
+[2019-09-14 20:31:14,039][web_base_page.py][line: 164][INFO] click element : organization_btn_save
+[2019-09-14 20:31:15,253][test_organization_testcases.py][line: 54][INFO] 选择新建的部门
+[2019-09-14 20:31:15,253][web_base_page.py][line: 164][INFO] click element : organization_txt_tree
+[2019-09-14 20:31:15,368][test_organization_testcases.py][line: 56][INFO] 点击删除按钮
+[2019-09-14 20:31:15,379][web_base_page.py][line: 164][INFO] click element : organization_btn_delete
+[2019-09-14 20:31:18,471][test_organization_testcases.py][line: 66][INFO] finish to run test case test_organization_add_department
+[2019-09-14 20:31:25,861][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:31:25,861][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:31:25,861][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:31:28,392][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:31:30,309][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:31:30,309][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:31:30,322][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:31:30,334][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:31:30,405][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:31:30,417][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:31:31,498][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:31:31,529][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:31:31,529][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:31:31,658][test_organization_testcases.py][line: 43][INFO] 输入编码
+[2019-09-14 20:31:31,738][test_organization_testcases.py][line: 45][INFO] 输入名称
+[2019-09-14 20:31:31,782][test_organization_testcases.py][line: 47][INFO] 点击保存按钮
+[2019-09-14 20:31:31,792][web_base_page.py][line: 164][INFO] click element : organization_btn_save
+[2019-09-14 20:31:33,000][test_organization_testcases.py][line: 53][INFO] 选择新建的部门
+[2019-09-14 20:31:33,015][web_base_page.py][line: 164][INFO] click element : organization_txt_tree
+[2019-09-14 20:31:33,156][test_organization_testcases.py][line: 55][INFO] 点击删除按钮
+[2019-09-14 20:31:33,167][web_base_page.py][line: 164][INFO] click element : organization_btn_delete
+[2019-09-14 20:31:36,267][test_organization_testcases.py][line: 65][INFO] finish to run test case test_organization_add_department
+[2019-09-14 20:32:11,611][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:32:11,611][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:32:11,611][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:32:14,222][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:32:16,110][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:32:16,110][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:32:16,120][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:32:16,133][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:32:16,202][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:32:16,215][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:32:17,427][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:32:17,474][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:32:17,490][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:32:17,614][test_organization_testcases.py][line: 43][INFO] 输入编码
+[2019-09-14 20:32:17,684][test_organization_testcases.py][line: 45][INFO] 输入名称
+[2019-09-14 20:32:17,730][test_organization_testcases.py][line: 47][INFO] 点击保存按钮
+[2019-09-14 20:32:17,740][web_base_page.py][line: 164][INFO] click element : organization_btn_save
+[2019-09-14 20:33:51,945][main.py][line: 34][INFO] 错误截图路径; F:\虫师资料\webui\脚本\CRMDemo\screenshots
+[2019-09-14 20:33:52,086][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:33:52,086][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:33:52,101][main.py][line: 46][INFO] 报告路径; F:\虫师资料\webui\脚本\CRMDemo\report\report_20190914_203352.html
+[2019-09-14 20:33:52,101][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:33:54,686][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:33:56,578][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:33:56,578][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:33:56,589][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:33:56,598][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:33:56,665][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:33:56,679][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:33:57,886][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:33:57,917][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:33:57,917][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:33:58,046][test_organization_testcases.py][line: 43][INFO] 输入编码
+[2019-09-14 20:33:58,122][test_organization_testcases.py][line: 45][INFO] 输入名称
+[2019-09-14 20:33:58,170][test_organization_testcases.py][line: 47][INFO] 点击保存按钮
+[2019-09-14 20:33:58,180][web_base_page.py][line: 164][INFO] click element : organization_btn_save
+[2019-09-14 20:33:59,412][test_organization_testcases.py][line: 53][INFO] 选择新建的部门
+[2019-09-14 20:33:59,427][web_base_page.py][line: 164][INFO] click element : organization_txt_tree
+[2019-09-14 20:33:59,563][test_organization_testcases.py][line: 55][INFO] 点击删除按钮
+[2019-09-14 20:33:59,580][web_base_page.py][line: 164][INFO] click element : organization_btn_delete
+[2019-09-14 20:34:00,643][test_organization_testcases.py][line: 58][INFO] 从html页面切换到alert弹框
+[2019-09-14 20:34:00,647][test_organization_testcases.py][line: 60][INFO] 点击确定按钮
+[2019-09-14 20:34:02,688][test_organization_testcases.py][line: 63][INFO] finish to run test case test_organization_add_department
+[2019-09-14 20:34:04,940][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:34:07,444][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:34:09,324][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:34:09,324][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 20:34:09,336][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 20:34:09,346][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 20:34:09,420][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 20:34:09,430][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 20:34:10,509][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 20:34:10,556][test_potential_testcases.py][line: 41][INFO] 查询条件状态选择有效
+[2019-09-14 20:34:10,663][test_potential_testcases.py][line: 43][INFO] 点击查询
+[2019-09-14 20:34:10,673][web_base_page.py][line: 164][INFO] click element : potential_query
+[2019-09-14 20:34:10,815][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-14 20:34:10,827][web_base_page.py][line: 164][INFO] click element : potential_row
+[2019-09-14 20:34:10,904][test_potential_testcases.py][line: 47][INFO] 点击查看按钮
+[2019-09-14 20:34:10,912][web_base_page.py][line: 164][INFO] click element : potential_check
+[2019-09-14 20:34:13,039][test_potential_testcases.py][line: 50][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 20:34:13,055][test_potential_testcases.py][line: 52][INFO] 判断姓名正确
+[2019-09-14 20:34:13,070][test_potential_testcases.py][line: 54][INFO] 判断状态正确
+[2019-09-14 20:34:13,086][test_potential_testcases.py][line: 56][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 20:34:15,352][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:34:17,853][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:34:19,761][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:34:19,761][test_potential_testcases.py][line: 60][INFO] start to run test case test_potential_organization_query
+[2019-09-14 20:34:19,778][test_potential_testcases.py][line: 63][INFO] 点击客户管理
+[2019-09-14 20:34:19,791][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 20:34:19,862][test_potential_testcases.py][line: 65][INFO] 点击潜在客户
+[2019-09-14 20:34:19,874][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 20:34:21,947][test_potential_testcases.py][line: 71][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 20:34:21,978][test_potential_testcases.py][line: 73][INFO] 点击组织资源标签
+[2019-09-14 20:34:21,978][web_base_page.py][line: 164][INFO] click element : potential_tab_organization
+[2019-09-14 20:34:22,206][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-14 20:34:22,317][test_potential_testcases.py][line: 78][INFO] 点击查询
+[2019-09-14 20:34:22,327][web_base_page.py][line: 164][INFO] click element : potential_query
+[2019-09-14 20:34:22,469][test_potential_testcases.py][line: 80][INFO] 选择数据
+[2019-09-14 20:34:22,478][web_base_page.py][line: 164][INFO] click element : potential_row
+[2019-09-14 20:34:22,555][test_potential_testcases.py][line: 82][INFO] 点击查看按钮
+[2019-09-14 20:34:22,564][web_base_page.py][line: 164][INFO] click element : potential_check
+[2019-09-14 20:34:24,710][test_potential_testcases.py][line: 85][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 20:34:24,744][test_potential_testcases.py][line: 87][INFO] 判断姓名正确
+[2019-09-14 20:34:24,753][test_potential_testcases.py][line: 89][INFO] 判断状态正确
+[2019-09-14 20:34:24,768][test_potential_testcases.py][line: 91][INFO] finish to run test case test_potential_organization_query
+[2019-09-14 20:42:15,556][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:42:15,572][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:42:15,572][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:42:18,155][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:42:20,071][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:42:20,071][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 20:42:20,083][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 20:42:20,094][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 20:42:20,163][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 20:42:20,174][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 20:42:21,258][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 20:42:21,305][test_potential_testcases.py][line: 41][INFO] 查询条件状态选择有效
+[2019-09-14 20:42:21,428][test_potential_testcases.py][line: 43][INFO] 点击查询
+[2019-09-14 20:42:21,441][web_base_page.py][line: 164][INFO] click element : potential_query
+[2019-09-14 20:42:21,592][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-14 20:42:21,608][web_base_page.py][line: 164][INFO] click element : potential_row
+[2019-09-14 20:42:21,680][test_potential_testcases.py][line: 47][INFO] 点击查看按钮
+[2019-09-14 20:42:21,691][web_base_page.py][line: 164][INFO] click element : potential_check
+[2019-09-14 20:42:23,818][test_potential_testcases.py][line: 50][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 20:42:23,833][test_potential_testcases.py][line: 52][INFO] 判断姓名正确
+[2019-09-14 20:42:23,849][test_potential_testcases.py][line: 54][INFO] 判断状态正确
+[2019-09-14 20:42:23,849][test_potential_testcases.py][line: 56][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 20:47:27,058][main.py][line: 34][INFO] 错误截图路径; F:\虫师资料\webui\脚本\CRMDemo\screenshots
+[2019-09-14 20:47:27,199][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-14 20:47:27,199][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-14 20:47:27,214][main.py][line: 46][INFO] 报告路径; F:\虫师资料\webui\脚本\CRMDemo\report\report_20190914_204727.html
+[2019-09-14 20:47:27,214][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:47:29,734][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:47:31,633][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:47:31,633][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-14 20:47:31,645][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-14 20:47:31,657][web_base_page.py][line: 164][INFO] click element : menu_btn_system
+[2019-09-14 20:47:31,730][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-14 20:47:31,742][web_base_page.py][line: 164][INFO] click element : menu_btn_organization
+[2019-09-14 20:47:32,820][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-14 20:47:32,867][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-14 20:47:32,867][web_base_page.py][line: 164][INFO] click element : organization_btn_add
+[2019-09-14 20:47:33,003][test_organization_testcases.py][line: 43][INFO] 输入编码
+[2019-09-14 20:47:33,077][test_organization_testcases.py][line: 45][INFO] 输入名称
+[2019-09-14 20:47:33,128][test_organization_testcases.py][line: 47][INFO] 点击保存按钮
+[2019-09-14 20:47:33,137][web_base_page.py][line: 164][INFO] click element : organization_btn_save
+[2019-09-14 20:47:34,361][test_organization_testcases.py][line: 53][INFO] 选择新建的部门
+[2019-09-14 20:47:34,376][web_base_page.py][line: 164][INFO] click element : organization_txt_tree
+[2019-09-14 20:47:34,504][test_organization_testcases.py][line: 55][INFO] 点击删除按钮
+[2019-09-14 20:47:34,517][web_base_page.py][line: 164][INFO] click element : organization_btn_delete
+[2019-09-14 20:47:35,578][test_organization_testcases.py][line: 58][INFO] 从html页面切换到alert弹框
+[2019-09-14 20:47:35,580][test_organization_testcases.py][line: 60][INFO] 点击确定按钮
+[2019-09-14 20:47:37,611][test_organization_testcases.py][line: 63][INFO] finish to run test case test_organization_add_department
+[2019-09-14 20:47:39,845][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:47:42,435][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:47:44,327][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:47:44,327][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-14 20:47:44,342][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-14 20:47:44,353][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 20:47:44,426][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-14 20:47:44,437][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 20:47:45,765][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 20:47:45,812][test_potential_testcases.py][line: 41][INFO] 查询条件状态选择有效
+[2019-09-14 20:47:45,940][test_potential_testcases.py][line: 43][INFO] 点击查询
+[2019-09-14 20:47:45,953][web_base_page.py][line: 164][INFO] click element : potential_query
+[2019-09-14 20:47:46,120][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-14 20:47:46,131][web_base_page.py][line: 164][INFO] click element : potential_row
+[2019-09-14 20:47:46,203][test_potential_testcases.py][line: 47][INFO] 点击查看按钮
+[2019-09-14 20:47:46,211][web_base_page.py][line: 164][INFO] click element : potential_check
+[2019-09-14 20:47:48,354][test_potential_testcases.py][line: 50][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 20:47:48,385][test_potential_testcases.py][line: 52][INFO] 判断姓名正确
+[2019-09-14 20:47:48,385][test_potential_testcases.py][line: 54][INFO] 判断状态正确
+[2019-09-14 20:47:48,401][test_potential_testcases.py][line: 56][INFO] finish to run test case test_potential_personal_query
+[2019-09-14 20:47:50,651][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-14 20:47:53,236][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-14 20:47:55,107][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-14 20:47:55,107][test_potential_testcases.py][line: 60][INFO] start to run test case test_potential_organization_query
+[2019-09-14 20:47:55,118][test_potential_testcases.py][line: 63][INFO] 点击客户管理
+[2019-09-14 20:47:55,130][web_base_page.py][line: 164][INFO] click element : menu_btn_customer
+[2019-09-14 20:47:55,196][test_potential_testcases.py][line: 65][INFO] 点击潜在客户
+[2019-09-14 20:47:55,208][web_base_page.py][line: 164][INFO] click element : menu_btn_potential
+[2019-09-14 20:47:57,514][test_potential_testcases.py][line: 71][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-14 20:47:57,545][test_potential_testcases.py][line: 73][INFO] 点击组织资源标签
+[2019-09-14 20:47:57,561][web_base_page.py][line: 164][INFO] click element : potential_tab_organization
+[2019-09-14 20:47:57,802][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-14 20:47:57,914][test_potential_testcases.py][line: 78][INFO] 点击查询
+[2019-09-14 20:47:57,926][web_base_page.py][line: 164][INFO] click element : potential_query
+[2019-09-14 20:47:58,065][test_potential_testcases.py][line: 80][INFO] 选择数据
+[2019-09-14 20:47:58,076][web_base_page.py][line: 164][INFO] click element : potential_row
+[2019-09-14 20:47:58,155][test_potential_testcases.py][line: 82][INFO] 点击查看按钮
+[2019-09-14 20:47:58,164][web_base_page.py][line: 164][INFO] click element : potential_check
+[2019-09-14 20:48:00,283][test_potential_testcases.py][line: 85][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-14 20:48:00,321][test_potential_testcases.py][line: 87][INFO] 判断姓名正确
+[2019-09-14 20:48:00,336][test_potential_testcases.py][line: 89][INFO] 判断状态正确
+[2019-09-14 20:48:00,352][test_potential_testcases.py][line: 91][INFO] finish to run test case test_potential_organization_query
+[2019-09-20 11:45:33,703][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-20 11:45:33,719][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-20 11:45:33,735][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-20 11:45:36,591][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-20 11:46:36,301][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-20 11:46:36,301][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-20 11:46:36,301][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-20 11:46:38,928][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-20 11:46:40,874][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-20 11:46:40,874][test_potential_testcases.py][line: 60][INFO] start to run test case test_potential_organization_query
+[2019-09-20 11:46:40,885][test_potential_testcases.py][line: 63][INFO] 点击客户管理
+[2019-09-20 11:46:40,898][web_base_page.py][line: 154][INFO] click element : menu_btn_customer
+[2019-09-20 11:46:40,982][test_potential_testcases.py][line: 65][INFO] 点击潜在客户
+[2019-09-20 11:46:40,997][web_base_page.py][line: 154][INFO] click element : menu_btn_potential
+[2019-09-20 11:46:43,107][test_potential_testcases.py][line: 71][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-20 11:46:43,139][test_potential_testcases.py][line: 73][INFO] 点击组织资源标签
+[2019-09-20 11:46:43,154][web_base_page.py][line: 154][INFO] click element : potential_tab_organization
+[2019-09-20 11:46:43,378][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-20 11:46:43,493][test_potential_testcases.py][line: 78][INFO] 点击查询
+[2019-09-20 11:46:43,502][web_base_page.py][line: 154][INFO] click element : potential_query
+[2019-09-20 11:46:43,650][test_potential_testcases.py][line: 80][INFO] 选择数据
+[2019-09-20 11:46:43,661][web_base_page.py][line: 154][INFO] click element : potential_row
+[2019-09-20 11:46:43,735][test_potential_testcases.py][line: 82][INFO] 点击查看按钮
+[2019-09-20 11:46:43,744][web_base_page.py][line: 154][INFO] click element : potential_check
+[2019-09-20 11:46:45,964][test_potential_testcases.py][line: 85][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-20 11:46:45,979][test_potential_testcases.py][line: 87][INFO] 判断姓名正确
+[2019-09-20 11:46:45,995][test_potential_testcases.py][line: 89][INFO] 判断状态正确
+[2019-09-20 11:46:46,010][test_potential_testcases.py][line: 91][INFO] finish to run test case test_potential_organization_query
+[2019-09-22 09:05:25,057][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-22 09:05:25,081][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-22 09:05:25,097][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 09:05:27,300][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 09:05:29,324][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 09:05:29,324][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-22 09:05:29,334][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-22 09:05:29,345][web_base_page.py][line: 154][INFO] click element : menu_btn_system
+[2019-09-22 09:05:29,416][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-22 09:05:29,429][web_base_page.py][line: 154][INFO] click element : menu_btn_organization
+[2019-09-22 09:05:30,510][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-22 09:05:30,531][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-22 09:05:30,541][web_base_page.py][line: 154][INFO] click element : organization_btn_add
+[2019-09-22 09:05:30,732][test_organization_testcases.py][line: 43][INFO] 输入编码
+[2019-09-22 09:05:30,810][test_organization_testcases.py][line: 45][INFO] 输入名称
+[2019-09-22 09:05:30,855][test_organization_testcases.py][line: 47][INFO] 点击保存按钮
+[2019-09-22 09:05:30,867][web_base_page.py][line: 154][INFO] click element : organization_btn_save
+[2019-09-22 09:05:32,163][test_organization_testcases.py][line: 53][INFO] 选择新建的部门
+[2019-09-22 09:05:32,171][web_base_page.py][line: 154][INFO] click element : organization_txt_tree
+[2019-09-22 09:05:34,704][test_organization_testcases.py][line: 55][INFO] 点击删除按钮
+[2019-09-22 09:05:34,718][web_base_page.py][line: 154][INFO] click element : organization_btn_delete
+[2019-09-22 09:05:35,783][test_organization_testcases.py][line: 58][INFO] 从html页面切换到alert弹框
+[2019-09-22 09:05:35,790][test_organization_testcases.py][line: 60][INFO] 点击确定按钮
+[2019-09-22 09:05:37,827][test_organization_testcases.py][line: 63][INFO] finish to run test case test_organization_add_department
+[2019-09-22 14:55:16,872][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-22 14:55:16,886][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-22 14:55:16,901][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 14:55:19,922][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 14:55:58,769][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-22 14:55:58,771][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-22 14:55:58,777][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 14:56:02,085][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 14:56:04,827][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 14:56:04,828][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-22 14:56:04,852][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-22 14:56:04,881][web_base_page.py][line: 154][INFO] click element : menu_btn_system
+[2019-09-22 14:56:05,067][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-22 14:56:05,101][web_base_page.py][line: 154][INFO] click element : menu_btn_organization
+[2019-09-22 14:56:06,819][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-22 14:56:06,880][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-22 14:56:06,915][web_base_page.py][line: 154][INFO] click element : organization_btn_add
+[2019-09-22 14:56:07,271][test_organization_testcases.py][line: 43][INFO] 输入编码
+[2019-09-22 14:56:07,479][test_organization_testcases.py][line: 45][INFO] 输入名称
+[2019-09-22 14:56:07,667][test_organization_testcases.py][line: 47][INFO] 点击保存按钮
+[2019-09-22 14:56:07,690][web_base_page.py][line: 154][INFO] click element : organization_btn_save
+[2019-09-22 14:56:09,247][test_organization_testcases.py][line: 53][INFO] 选择新建的部门
+[2019-09-22 14:56:09,265][web_base_page.py][line: 154][INFO] click element : organization_txt_tree
+[2019-09-22 14:56:09,563][test_organization_testcases.py][line: 55][INFO] 点击删除按钮
+[2019-09-22 14:56:09,591][web_base_page.py][line: 154][INFO] click element : organization_btn_delete
+[2019-09-22 14:56:10,728][test_organization_testcases.py][line: 58][INFO] 从html页面切换到alert弹框
+[2019-09-22 14:56:10,730][test_organization_testcases.py][line: 60][INFO] 点击确定按钮
+[2019-09-22 14:56:12,774][test_organization_testcases.py][line: 63][INFO] finish to run test case test_organization_add_department
+[2019-09-22 14:56:47,001][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-22 14:56:47,003][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-22 14:56:47,015][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 14:56:50,323][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 14:56:52,728][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 14:56:52,728][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-22 14:56:52,753][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-22 14:56:52,770][web_base_page.py][line: 154][INFO] click element : menu_btn_customer
+[2019-09-22 14:56:52,905][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-22 14:56:52,933][web_base_page.py][line: 154][INFO] click element : menu_btn_potential
+[2019-09-22 14:56:54,070][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-22 14:56:54,153][test_potential_testcases.py][line: 41][INFO] 查询条件状态选择有效
+[2019-09-22 14:56:54,348][test_potential_testcases.py][line: 43][INFO] 点击查询
+[2019-09-22 14:56:54,365][web_base_page.py][line: 154][INFO] click element : potential_query
+[2019-09-22 14:56:54,650][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-22 14:56:54,670][web_base_page.py][line: 154][INFO] click element : potential_row
+[2019-09-22 14:56:54,809][test_potential_testcases.py][line: 47][INFO] 点击查看按钮
+[2019-09-22 14:56:54,835][web_base_page.py][line: 154][INFO] click element : potential_check
+[2019-09-22 14:56:57,129][test_potential_testcases.py][line: 50][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-22 14:56:57,174][test_potential_testcases.py][line: 52][INFO] 判断姓名正确
+[2019-09-22 14:56:57,186][test_potential_testcases.py][line: 54][INFO] 判断状态正确
+[2019-09-22 14:56:57,204][test_potential_testcases.py][line: 56][INFO] finish to run test case test_potential_personal_query
+[2019-09-22 14:57:08,532][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-22 14:57:08,533][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-22 14:57:08,537][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 14:57:11,288][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 14:57:13,499][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 14:57:13,499][test_potential_testcases.py][line: 60][INFO] start to run test case test_potential_organization_query
+[2019-09-22 14:57:13,516][test_potential_testcases.py][line: 63][INFO] 点击客户管理
+[2019-09-22 14:57:13,546][web_base_page.py][line: 154][INFO] click element : menu_btn_customer
+[2019-09-22 14:57:13,665][test_potential_testcases.py][line: 65][INFO] 点击潜在客户
+[2019-09-22 14:57:13,685][web_base_page.py][line: 154][INFO] click element : menu_btn_potential
+[2019-09-22 14:57:15,815][test_potential_testcases.py][line: 71][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-22 14:57:15,841][test_potential_testcases.py][line: 73][INFO] 点击组织资源标签
+[2019-09-22 14:57:15,853][web_base_page.py][line: 154][INFO] click element : potential_tab_organization
+[2019-09-22 14:57:16,244][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-22 14:57:16,407][test_potential_testcases.py][line: 78][INFO] 点击查询
+[2019-09-22 14:57:16,422][web_base_page.py][line: 154][INFO] click element : potential_query
+[2019-09-22 14:57:16,655][test_potential_testcases.py][line: 80][INFO] 选择数据
+[2019-09-22 14:57:16,668][web_base_page.py][line: 154][INFO] click element : potential_row
+[2019-09-22 14:57:16,782][test_potential_testcases.py][line: 82][INFO] 点击查看按钮
+[2019-09-22 14:57:16,799][web_base_page.py][line: 154][INFO] click element : potential_check
+[2019-09-22 14:57:19,021][test_potential_testcases.py][line: 85][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-22 14:57:19,046][test_potential_testcases.py][line: 87][INFO] 判断姓名正确
+[2019-09-22 14:57:19,059][test_potential_testcases.py][line: 89][INFO] 判断状态正确
+[2019-09-22 14:57:19,079][test_potential_testcases.py][line: 91][INFO] finish to run test case test_potential_organization_query
+[2019-09-22 14:58:53,911][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-22 14:58:53,912][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-22 14:58:53,914][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 14:58:56,579][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 14:58:58,841][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 14:58:58,841][test_potential_testcases.py][line: 60][INFO] start to run test case test_potential_organization_query
+[2019-09-22 14:58:58,864][test_potential_testcases.py][line: 63][INFO] 点击客户管理
+[2019-09-22 14:58:58,888][web_base_page.py][line: 154][INFO] click element : menu_btn_customer
+[2019-09-22 14:58:58,993][test_potential_testcases.py][line: 65][INFO] 点击潜在客户
+[2019-09-22 14:58:59,017][web_base_page.py][line: 154][INFO] click element : menu_btn_potential
+[2019-09-22 14:59:01,149][test_potential_testcases.py][line: 71][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-22 14:59:01,185][test_potential_testcases.py][line: 73][INFO] 点击组织资源标签
+[2019-09-22 14:59:01,204][web_base_page.py][line: 154][INFO] click element : potential_tab_organization
+[2019-09-22 14:59:01,612][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-22 14:59:01,796][test_potential_testcases.py][line: 78][INFO] 点击查询
+[2019-09-22 14:59:01,817][web_base_page.py][line: 154][INFO] click element : potential_query
+[2019-09-22 14:59:02,043][test_potential_testcases.py][line: 80][INFO] 选择数据
+[2019-09-22 14:59:02,061][web_base_page.py][line: 154][INFO] click element : potential_row
+[2019-09-22 14:59:02,194][test_potential_testcases.py][line: 82][INFO] 点击查看按钮
+[2019-09-22 14:59:02,211][web_base_page.py][line: 154][INFO] click element : potential_check
+[2019-09-22 14:59:04,442][test_potential_testcases.py][line: 85][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-22 14:59:04,468][test_potential_testcases.py][line: 87][INFO] 判断姓名正确
+[2019-09-22 14:59:04,482][test_potential_testcases.py][line: 89][INFO] 判断状态正确
+[2019-09-22 14:59:04,498][test_potential_testcases.py][line: 91][INFO] finish to run test case test_potential_organization_query
+[2019-09-22 14:59:06,898][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 14:59:10,061][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 14:59:12,753][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 14:59:12,753][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-22 14:59:12,780][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-22 14:59:12,810][web_base_page.py][line: 154][INFO] click element : menu_btn_customer
+[2019-09-22 14:59:12,966][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-22 14:59:13,012][web_base_page.py][line: 154][INFO] click element : menu_btn_potential
+[2019-09-22 14:59:14,807][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-22 14:59:14,953][test_potential_testcases.py][line: 41][INFO] 查询条件状态选择有效
+[2019-09-22 14:59:15,222][test_potential_testcases.py][line: 43][INFO] 点击查询
+[2019-09-22 14:59:15,246][web_base_page.py][line: 154][INFO] click element : potential_query
+[2019-09-22 14:59:15,607][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-22 14:59:15,631][web_base_page.py][line: 154][INFO] click element : potential_row
+[2019-09-22 14:59:15,827][test_potential_testcases.py][line: 47][INFO] 点击查看按钮
+[2019-09-22 14:59:15,850][web_base_page.py][line: 154][INFO] click element : potential_check
+[2019-09-22 14:59:18,175][test_potential_testcases.py][line: 50][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-22 14:59:18,220][test_potential_testcases.py][line: 52][INFO] 判断姓名正确
+[2019-09-22 14:59:18,245][test_potential_testcases.py][line: 54][INFO] 判断状态正确
+[2019-09-22 14:59:18,274][test_potential_testcases.py][line: 56][INFO] finish to run test case test_potential_personal_query
+[2019-09-22 15:03:09,939][main.py][line: 34][INFO] 错误截图路径; F:\虫师资料\webui\脚本\CRMDemo\screenshots
+[2019-09-22 15:03:10,098][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-22 15:03:10,099][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-22 15:03:10,105][main.py][line: 46][INFO] 报告路径; F:\虫师资料\webui\脚本\CRMDemo\report\report_20190922_150310.html
+[2019-09-22 15:03:10,105][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 15:03:12,848][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 15:03:15,278][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 15:03:15,279][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-22 15:03:15,306][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-22 15:03:15,337][web_base_page.py][line: 154][INFO] click element : menu_btn_system
+[2019-09-22 15:03:15,500][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-22 15:03:15,524][web_base_page.py][line: 154][INFO] click element : menu_btn_organization
+[2019-09-22 15:03:16,677][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-22 15:03:16,714][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-22 15:03:16,730][web_base_page.py][line: 154][INFO] click element : organization_btn_add
+[2019-09-22 15:03:17,015][test_organization_testcases.py][line: 43][INFO] 输入编码
+[2019-09-22 15:03:17,163][test_organization_testcases.py][line: 45][INFO] 输入名称
+[2019-09-22 15:03:17,296][test_organization_testcases.py][line: 47][INFO] 点击保存按钮
+[2019-09-22 15:03:17,326][web_base_page.py][line: 154][INFO] click element : organization_btn_save
+[2019-09-22 15:03:18,795][test_organization_testcases.py][line: 53][INFO] 选择新建的部门
+[2019-09-22 15:03:18,805][web_base_page.py][line: 154][INFO] click element : organization_txt_tree
+[2019-09-22 15:03:19,012][test_organization_testcases.py][line: 55][INFO] 点击删除按钮
+[2019-09-22 15:03:19,032][web_base_page.py][line: 154][INFO] click element : organization_btn_delete
+[2019-09-22 15:03:20,133][test_organization_testcases.py][line: 58][INFO] 从html页面切换到alert弹框
+[2019-09-22 15:03:20,135][test_organization_testcases.py][line: 60][INFO] 点击确定按钮
+[2019-09-22 15:03:22,184][test_organization_testcases.py][line: 63][INFO] finish to run test case test_organization_add_department
+[2019-09-22 15:03:24,669][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 15:03:27,986][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 15:03:30,556][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 15:03:30,556][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-22 15:03:30,577][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-22 15:03:30,599][web_base_page.py][line: 154][INFO] click element : menu_btn_customer
+[2019-09-22 15:03:30,745][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-22 15:03:30,781][web_base_page.py][line: 154][INFO] click element : menu_btn_potential
+[2019-09-22 15:03:32,570][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-22 15:03:32,714][test_potential_testcases.py][line: 41][INFO] 查询条件状态选择有效
+[2019-09-22 15:03:33,030][test_potential_testcases.py][line: 43][INFO] 点击查询
+[2019-09-22 15:03:33,065][web_base_page.py][line: 154][INFO] click element : potential_query
+[2019-09-22 15:03:33,437][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-22 15:03:33,462][web_base_page.py][line: 154][INFO] click element : potential_row
+[2019-09-22 15:03:33,660][test_potential_testcases.py][line: 47][INFO] 点击查看按钮
+[2019-09-22 15:03:33,680][web_base_page.py][line: 154][INFO] click element : potential_check
+[2019-09-22 15:03:35,995][test_potential_testcases.py][line: 50][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-22 15:03:36,033][test_potential_testcases.py][line: 52][INFO] 判断姓名正确
+[2019-09-22 15:03:36,053][test_potential_testcases.py][line: 54][INFO] 判断状态正确
+[2019-09-22 15:03:36,081][test_potential_testcases.py][line: 56][INFO] finish to run test case test_potential_personal_query
+[2019-09-22 15:03:38,568][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 15:03:41,622][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 15:03:44,140][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 15:03:44,141][test_potential_testcases.py][line: 60][INFO] start to run test case test_potential_organization_query
+[2019-09-22 15:03:44,164][test_potential_testcases.py][line: 63][INFO] 点击客户管理
+[2019-09-22 15:03:44,186][web_base_page.py][line: 154][INFO] click element : menu_btn_customer
+[2019-09-22 15:03:44,346][test_potential_testcases.py][line: 65][INFO] 点击潜在客户
+[2019-09-22 15:03:44,377][web_base_page.py][line: 154][INFO] click element : menu_btn_potential
+[2019-09-22 15:03:46,545][test_potential_testcases.py][line: 71][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-22 15:03:46,577][test_potential_testcases.py][line: 73][INFO] 点击组织资源标签
+[2019-09-22 15:03:46,620][web_base_page.py][line: 154][INFO] click element : potential_tab_organization
+[2019-09-22 15:03:47,171][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-22 15:03:47,462][test_potential_testcases.py][line: 78][INFO] 点击查询
+[2019-09-22 15:03:47,491][web_base_page.py][line: 154][INFO] click element : potential_query
+[2019-09-22 15:03:47,827][test_potential_testcases.py][line: 80][INFO] 选择数据
+[2019-09-22 15:03:47,852][web_base_page.py][line: 154][INFO] click element : potential_row
+[2019-09-22 15:03:48,021][test_potential_testcases.py][line: 82][INFO] 点击查看按钮
+[2019-09-22 15:03:48,049][web_base_page.py][line: 154][INFO] click element : potential_check
+[2019-09-22 15:03:50,387][test_potential_testcases.py][line: 85][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-22 15:03:50,426][test_potential_testcases.py][line: 87][INFO] 判断姓名正确
+[2019-09-22 15:03:50,450][test_potential_testcases.py][line: 89][INFO] 判断状态正确
+[2019-09-22 15:03:50,479][test_potential_testcases.py][line: 91][INFO] finish to run test case test_potential_organization_query
+[2019-09-22 15:06:19,074][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-22 15:06:19,075][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-22 15:06:19,079][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 15:06:21,784][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 15:06:23,976][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 15:06:23,976][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-22 15:06:23,991][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-22 15:06:24,009][web_base_page.py][line: 154][INFO] click element : menu_btn_system
+[2019-09-22 15:06:24,113][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-22 15:06:24,132][web_base_page.py][line: 154][INFO] click element : menu_btn_organization
+[2019-09-22 15:06:25,252][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-22 15:13:20,799][main.py][line: 34][INFO] 错误截图路径; F:\虫师资料\webui\脚本\CRMDemo\screenshots
+[2019-09-22 15:13:20,995][get_locator.py][line: 11][INFO] xml路径：F:\虫师资料\webui\脚本\CRMDemo\elements
+[2019-09-22 15:13:20,997][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-22 15:13:21,005][main.py][line: 46][INFO] 报告路径; F:\虫师资料\webui\脚本\CRMDemo\report\report_20190922_151321.html
+[2019-09-22 15:13:21,005][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 15:13:23,991][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 15:13:26,341][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 15:13:26,341][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-22 15:13:26,363][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-22 15:13:26,395][web_base_page.py][line: 154][INFO] click element : menu_btn_system
+[2019-09-22 15:13:26,577][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-22 15:13:26,613][web_base_page.py][line: 154][INFO] click element : menu_btn_organization
+[2019-09-22 15:13:27,791][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-22 15:13:27,824][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-22 15:13:27,836][web_base_page.py][line: 154][INFO] click element : organization_btn_add
+[2019-09-22 15:13:28,060][test_organization_testcases.py][line: 43][INFO] 输入编码
+[2019-09-22 15:13:28,208][test_organization_testcases.py][line: 45][INFO] 输入名称
+[2019-09-22 15:13:28,309][test_organization_testcases.py][line: 47][INFO] 点击保存按钮
+[2019-09-22 15:13:28,338][web_base_page.py][line: 154][INFO] click element : organization_btn_save
+[2019-09-22 15:13:29,740][test_organization_testcases.py][line: 53][INFO] 选择新建的部门
+[2019-09-22 15:13:29,754][web_base_page.py][line: 154][INFO] click element : organization_txt_tree
+[2019-09-22 15:13:30,013][test_organization_testcases.py][line: 55][INFO] 点击删除按钮
+[2019-09-22 15:13:30,036][web_base_page.py][line: 154][INFO] click element : organization_btn_delete
+[2019-09-22 15:13:31,131][test_organization_testcases.py][line: 58][INFO] 从html页面切换到alert弹框
+[2019-09-22 15:13:31,134][test_organization_testcases.py][line: 60][INFO] 点击确定按钮
+[2019-09-22 15:13:33,173][test_organization_testcases.py][line: 63][INFO] finish to run test case test_organization_add_department
+[2019-09-22 15:13:35,494][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 15:13:38,205][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 15:13:40,406][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 15:13:40,407][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-22 15:13:40,443][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-22 15:13:40,474][web_base_page.py][line: 154][INFO] click element : menu_btn_customer
+[2019-09-22 15:13:40,589][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-22 15:13:40,610][web_base_page.py][line: 154][INFO] click element : menu_btn_potential
+[2019-09-22 15:13:42,144][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-22 15:13:42,226][test_potential_testcases.py][line: 41][INFO] 查询条件状态选择有效
+[2019-09-22 15:13:42,399][test_potential_testcases.py][line: 43][INFO] 点击查询
+[2019-09-22 15:13:42,428][web_base_page.py][line: 154][INFO] click element : potential_query
+[2019-09-22 15:13:42,702][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-22 15:13:42,730][web_base_page.py][line: 154][INFO] click element : potential_row
+[2019-09-22 15:13:42,864][test_potential_testcases.py][line: 47][INFO] 点击查看按钮
+[2019-09-22 15:13:42,885][web_base_page.py][line: 154][INFO] click element : potential_check
+[2019-09-22 15:13:45,155][test_potential_testcases.py][line: 50][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-22 15:13:45,189][test_potential_testcases.py][line: 52][INFO] 判断姓名正确
+[2019-09-22 15:13:45,211][test_potential_testcases.py][line: 54][INFO] 判断状态正确
+[2019-09-22 15:13:45,240][test_potential_testcases.py][line: 56][INFO] finish to run test case test_potential_personal_query
+[2019-09-22 15:13:47,620][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 15:13:50,149][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 15:13:52,390][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 15:13:52,391][test_potential_testcases.py][line: 60][INFO] start to run test case test_potential_organization_query
+[2019-09-22 15:13:52,437][test_potential_testcases.py][line: 63][INFO] 点击客户管理
+[2019-09-22 15:13:52,461][web_base_page.py][line: 154][INFO] click element : menu_btn_customer
+[2019-09-22 15:13:52,618][test_potential_testcases.py][line: 65][INFO] 点击潜在客户
+[2019-09-22 15:13:52,651][web_base_page.py][line: 154][INFO] click element : menu_btn_potential
+[2019-09-22 15:13:55,220][test_potential_testcases.py][line: 71][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-22 15:13:55,269][test_potential_testcases.py][line: 73][INFO] 点击组织资源标签
+[2019-09-22 15:13:55,284][web_base_page.py][line: 154][INFO] click element : potential_tab_organization
+[2019-09-22 15:13:55,761][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-22 15:13:55,961][test_potential_testcases.py][line: 78][INFO] 点击查询
+[2019-09-22 15:13:55,984][web_base_page.py][line: 154][INFO] click element : potential_query
+[2019-09-22 15:13:56,249][test_potential_testcases.py][line: 80][INFO] 选择数据
+[2019-09-22 15:13:56,269][web_base_page.py][line: 154][INFO] click element : potential_row
+[2019-09-22 15:13:56,417][test_potential_testcases.py][line: 82][INFO] 点击查看按钮
+[2019-09-22 15:13:56,441][web_base_page.py][line: 154][INFO] click element : potential_check
+[2019-09-22 15:13:58,704][test_potential_testcases.py][line: 85][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-22 15:13:58,744][test_potential_testcases.py][line: 87][INFO] 判断姓名正确
+[2019-09-22 15:13:58,768][test_potential_testcases.py][line: 89][INFO] 判断状态正确
+[2019-09-22 15:13:58,793][test_potential_testcases.py][line: 91][INFO] finish to run test case test_potential_organization_query
+[2019-09-22 16:58:40,561][main.py][line: 34][INFO] 错误截图路径; C:\UI自动化框架\CRMDemo\screenshots
+[2019-09-22 16:58:40,814][get_locator.py][line: 11][INFO] xml路径：C:\UI自动化框架\CRMDemo\elements
+[2019-09-22 16:58:40,818][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-22 16:58:40,823][main.py][line: 46][INFO] 报告路径; C:\UI自动化框架\CRMDemo\report\report_20190922_165840.html
+[2019-09-22 16:58:40,825][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 16:58:44,529][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 16:58:46,170][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 16:58:48,972][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 16:58:50,546][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 16:58:53,921][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 17:12:58,879][main.py][line: 34][INFO] 错误截图路径; C:\UI自动化框架\CRMDemo\screenshots
+[2019-09-22 17:12:59,058][get_locator.py][line: 11][INFO] xml路径：C:\UI自动化框架\CRMDemo\elements
+[2019-09-22 17:12:59,059][get_locator.py][line: 13][INFO] 解析xml完成
+[2019-09-22 17:12:59,064][main.py][line: 46][INFO] 报告路径; C:\UI自动化框架\CRMDemo\report\report_20190922_171259.html
+[2019-09-22 17:12:59,065][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 17:13:01,830][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 17:13:03,561][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 17:13:03,562][test_organization_testcases.py][line: 27][INFO] start to run test case test_organization_add_department
+[2019-09-22 17:13:03,578][test_organization_testcases.py][line: 30][INFO] 点击系统管理
+[2019-09-22 17:13:03,596][web_base_page.py][line: 154][INFO] click element : menu_btn_system
+[2019-09-22 17:13:03,715][test_organization_testcases.py][line: 32][INFO] 点击组织机构
+[2019-09-22 17:13:03,737][web_base_page.py][line: 154][INFO] click element : menu_btn_organization
+[2019-09-22 17:13:05,064][test_organization_testcases.py][line: 38][INFO] 判断是否打开组织机构页面,公司集团可见
+[2019-09-22 17:13:05,112][test_organization_testcases.py][line: 40][INFO] 点击新增按钮
+[2019-09-22 17:13:05,127][web_base_page.py][line: 154][INFO] click element : organization_btn_add
+[2019-09-22 17:13:05,421][test_organization_testcases.py][line: 43][INFO] 输入编码
+[2019-09-22 17:13:05,487][test_organization_testcases.py][line: 45][INFO] 输入名称
+[2019-09-22 17:13:05,544][test_organization_testcases.py][line: 47][INFO] 点击保存按钮
+[2019-09-22 17:13:05,558][web_base_page.py][line: 154][INFO] click element : organization_btn_save
+[2019-09-22 17:13:06,836][test_organization_testcases.py][line: 53][INFO] 选择新建的部门
+[2019-09-22 17:13:06,857][web_base_page.py][line: 154][INFO] click element : organization_txt_tree
+[2019-09-22 17:13:07,074][test_organization_testcases.py][line: 55][INFO] 点击删除按钮
+[2019-09-22 17:13:07,088][web_base_page.py][line: 154][INFO] click element : organization_btn_delete
+[2019-09-22 17:13:08,168][test_organization_testcases.py][line: 58][INFO] 从html页面切换到alert弹框
+[2019-09-22 17:13:08,172][test_organization_testcases.py][line: 60][INFO] 点击确定按钮
+[2019-09-22 17:13:10,197][test_organization_testcases.py][line: 63][INFO] finish to run test case test_organization_add_department
+[2019-09-22 17:13:12,377][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 17:13:15,175][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 17:13:16,848][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 17:13:16,848][test_potential_testcases.py][line: 27][INFO] start to run test case test_potential_personal_query
+[2019-09-22 17:13:16,862][test_potential_testcases.py][line: 30][INFO] 点击客户管理
+[2019-09-22 17:13:16,877][web_base_page.py][line: 154][INFO] click element : menu_btn_customer
+[2019-09-22 17:13:16,982][test_potential_testcases.py][line: 32][INFO] 点击潜在客户
+[2019-09-22 17:13:17,003][web_base_page.py][line: 154][INFO] click element : menu_btn_potential
+[2019-09-22 17:13:18,638][test_potential_testcases.py][line: 38][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-22 17:13:18,710][test_potential_testcases.py][line: 41][INFO] 查询条件状态选择有效
+[2019-09-22 17:13:18,900][test_potential_testcases.py][line: 43][INFO] 点击查询
+[2019-09-22 17:13:18,915][web_base_page.py][line: 154][INFO] click element : potential_query
+[2019-09-22 17:13:19,176][test_potential_testcases.py][line: 45][INFO] 选择数据
+[2019-09-22 17:13:19,189][web_base_page.py][line: 154][INFO] click element : potential_row
+[2019-09-22 17:13:19,308][test_potential_testcases.py][line: 47][INFO] 点击查看按钮
+[2019-09-22 17:13:19,324][web_base_page.py][line: 154][INFO] click element : potential_check
+[2019-09-22 17:13:21,550][test_potential_testcases.py][line: 50][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-22 17:13:21,600][test_potential_testcases.py][line: 52][INFO] 判断姓名正确
+[2019-09-22 17:13:24,086][chrome_driver_init.py][line: 10][INFO] 打开chrome浏览器
+[2019-09-22 17:13:26,838][chrome_driver_init.py][line: 15][INFO] 开始登录
+[2019-09-22 17:13:28,520][chrome_driver_init.py][line: 29][INFO] 登录成功
+[2019-09-22 17:13:28,520][test_potential_testcases.py][line: 60][INFO] start to run test case test_potential_organization_query
+[2019-09-22 17:13:28,533][test_potential_testcases.py][line: 63][INFO] 点击客户管理
+[2019-09-22 17:13:28,547][web_base_page.py][line: 154][INFO] click element : menu_btn_customer
+[2019-09-22 17:13:28,648][test_potential_testcases.py][line: 65][INFO] 点击潜在客户
+[2019-09-22 17:13:28,670][web_base_page.py][line: 154][INFO] click element : menu_btn_potential
+[2019-09-22 17:13:31,081][test_potential_testcases.py][line: 71][INFO] 判断是否打开潜在客户页面,个人标签页签可见
+[2019-09-22 17:13:31,106][test_potential_testcases.py][line: 73][INFO] 点击组织资源标签
+[2019-09-22 17:13:31,118][web_base_page.py][line: 154][INFO] click element : potential_tab_organization
+[2019-09-22 17:13:31,448][test_potential_testcases.py][line: 76][INFO] 查询条件状态选择有效
+[2019-09-22 17:13:31,606][test_potential_testcases.py][line: 78][INFO] 点击查询
+[2019-09-22 17:13:31,620][web_base_page.py][line: 154][INFO] click element : potential_query
+[2019-09-22 17:13:31,810][test_potential_testcases.py][line: 80][INFO] 选择数据
+[2019-09-22 17:13:31,824][web_base_page.py][line: 154][INFO] click element : potential_row
+[2019-09-22 17:13:31,929][test_potential_testcases.py][line: 82][INFO] 点击查看按钮
+[2019-09-22 17:13:31,942][web_base_page.py][line: 154][INFO] click element : potential_check
+[2019-09-22 17:13:34,159][test_potential_testcases.py][line: 85][INFO] 判断是否打开潜在查看页面,姓名可见
+[2019-09-22 17:13:34,220][test_potential_testcases.py][line: 87][INFO] 判断姓名正确
